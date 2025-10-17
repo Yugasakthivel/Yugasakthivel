@@ -56,10 +56,9 @@ I'm also interested in:
 
 ## You can find me on  
 <div align="left">
-    <a href="">
-        <img src="www.linkedin.com/in/yugasakthivel-k-114073277style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/yugasakthivel-k-114073277/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
 
-<br>
 I'm always up for a chat! Feel free to reach out!
