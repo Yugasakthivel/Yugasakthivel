@@ -57,7 +57,7 @@ I'm also interested in:
 ## You can find me on  
 <div align="left">
     <a href="">
-        <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="www.linkedin.com/in/yugasakthivel-k-114073277style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
 </div>
 
