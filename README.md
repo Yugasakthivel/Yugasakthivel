@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 
 
-  <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" alt="Context API" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 
   <img src="https://img.shields.io/badge/fastapi-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -38,15 +37,14 @@
 
 ## Latest Projects
 
-### Grocery at Next Door — Local Fruit & Grocery E-Commerce Website
+### Fingerprint analysis using streamlit
 [![View Grocery@nxt_door](https://img.shields.io/badge/Grocery%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://groceryatnxtdoor.netlify.app/)
 
-### Nike Shoe 
+### AI Legal Document Analysis 
 [![View Nike Frontend](https://img.shields.io/badge/Nike%20Frontend-View%20Project-brightgreen?style=for-the-badge)](https://kickspot.netlify.app/)
 
 
-### Weather App
-[![View Weather App](https://img.shields.io/badge/Weather%20App-View%20Project-brightgreen?style=for-the-badge)](https://breezeboard.netlify.app/)
+### 
 
 
 I'm also interested in:
