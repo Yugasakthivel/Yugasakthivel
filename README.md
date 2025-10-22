@@ -32,10 +32,10 @@
 ## 🧩 Latest Projects
 
 ### 🧠 Fingerprint Analysis using Streamlit  
-[![View Project](https://img.shields.io/badge/View%20Project-brightgreen?style=for-the-badge&logo=streamlit)](https://groceryatnxtdoor.netlify.app/)
+[![View Project]
 
 ### ⚖️ AI-Powered Legal Document Analysis  
-[![View Project](https://img.shields.io/badge/View%20Project-brightgreen?style=for-the-badge&logo=python)](https://kickspot.netlify.app/)
+[![View Project]
 
 ---
 
